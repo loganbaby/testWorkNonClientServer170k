@@ -1,0 +1,6 @@
+C:/Users/logbaby/Desktop/C++/testWorkNonClientServer170k/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/logbaby/Desktop/C++/testWorkNonClientServer170k/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/logbaby/Desktop/C++/testWorkNonClientServer170k/out/build/x64-debug/testWorkNonClientServer170k/CMakeFiles/testWorkNonClientServer170k.dir
+C:/Users/logbaby/Desktop/C++/testWorkNonClientServer170k/out/build/x64-debug/testWorkNonClientServer170k/CMakeFiles/edit_cache.dir
+C:/Users/logbaby/Desktop/C++/testWorkNonClientServer170k/out/build/x64-debug/testWorkNonClientServer170k/CMakeFiles/rebuild_cache.dir
+C:/Users/logbaby/Desktop/C++/testWorkNonClientServer170k/out/build/x64-debug/testWorkNonClientServer170k/CMakeFiles/testWorkNonClientServer170k_autogen.dir
